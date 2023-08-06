@@ -1,1 +1,1 @@
-# Thesis_CS648_2023 COMPREHENCIVE ANALYSIS AND FEATURE TRANSFORMATION OF HETEROGENOUS DATA FOR MODEL ANALYSIS
+# Thesis_CS648_2023 Comprehensive analysis and and feature transformation of heterogenous data for model analysis
